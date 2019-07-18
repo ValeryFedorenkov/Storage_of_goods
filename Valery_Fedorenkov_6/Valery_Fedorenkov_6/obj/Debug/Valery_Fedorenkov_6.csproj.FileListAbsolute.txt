@@ -1,0 +1,10 @@
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\bin\Debug\Valery_Fedorenkov_6.exe.config
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\bin\Debug\Valery_Fedorenkov_6.exe
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\bin\Debug\Valery_Fedorenkov_6.pdb
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.csprojAssemblyReference.cache
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.Form1.resources
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.Properties.Resources.resources
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.csproj.GenerateResource.cache
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.csproj.CoreCompileInputs.cache
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.exe
+C:\Users\st60206\source\repos\Valery_Fedorenkov_6\Valery_Fedorenkov_6\obj\Debug\Valery_Fedorenkov_6.pdb
